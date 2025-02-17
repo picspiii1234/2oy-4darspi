@@ -1,0 +1,167 @@
+/* body{
+    background-color: rgb(52, 46, 46);
+}
+h2{
+    text-align: center;
+    margin-top: 40px;
+color: blueviolet;
+}
+.parent{
+    width: 800px;
+    height: 290px;
+    border: 10px solid violet;
+    border-radius: 40px;
+    margin: auto;
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 30px;
+}
+.box{
+    width: 97px;
+    height: 167px;
+    background-color: white;
+    border-radius: 30px;
+    
+} */
+ body{
+    display: flex;
+    justify-content: space-between  ;
+    flex-wrap: wrap;
+ }
+ .parent{
+    width: 240px;
+    height: 240px;
+    background-color: rgb(144, 0, 255);
+    margin: 100px;
+    border-radius: 10px;
+    display: flex;
+ }
+ .box{
+    width: 40px;
+    height: 40px;
+    background-color: chocolate;
+    border-radius: 10px;
+    margin: 7px;
+    
+ }
+ .parent1{
+    width: 240px;
+    height: 240px;
+    background-color: rgb(144, 0, 255);
+    margin: 100px;
+    border-radius: 10px; 
+    
+ }
+ .box1{
+    width: 40px;
+    height: 40px;
+    background-color: chocolate;
+    border-radius: 10px;
+    margin: 7px;
+ }
+ .parent2{
+    width: 240px;
+    height: 240px;
+    background-color: rgb(144, 0, 255);
+    margin: 100px;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+  
+ }
+ .box2{
+    width: 40px;
+    height: 40px;
+    background-color: chocolate;
+    border-radius: 10px;
+    margin: 7px;
+ }
+ .parent3{
+   width: 240px;
+    height: 240px;
+    background-color: rgb(144, 0, 255);
+    margin: 100px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+  
+ }
+ .box3{
+   width: 40px;
+   height: 40px;
+   background-color: chocolate;
+   border-radius: 10px;
+   margin: 7px;
+ }
+ .parent4{
+   width: 240px;
+    height: 240px;
+    background-color: rgb(144, 0, 255);
+    margin: 100px;
+    border-radius: 10px;
+    display: flex; 
+    margin-top: 20px;
+ }
+ .box4{
+   width: 40px;
+   height: 40px;
+   background-color: chocolate;
+   border-radius: 10px;
+   margin: 7px;
+ }
+ .parent5{
+   width: 240px;
+    height: 240px;
+    background-color: rgb(144, 0, 255);
+    margin: 100px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: right;
+      margin-top: 20px;
+ }
+ .box5{
+   width: 40px;
+   height: 40px;
+   background-color: chocolate;
+   border-radius: 10px;
+   margin: 7px; 
+ }
+
+ .parent6{
+   width: 240px;
+    height: 240px;
+    background-color: rgb(144, 0, 255);
+    margin: 100px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+ }
+
+ .box6{
+   width: 40px;
+   height: 40px;
+   background-color: chocolate;
+   border-radius: 10px;
+   margin: 7px; 
+ }
+ .parent7{
+   width: 240px;
+    height: 240px;
+    background-color: rgb(144, 0, 255);
+    margin: 100px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+ }
+
+ .box7{
+   width: 40px;
+   height: 40px;
+   background-color: chocolate;
+   border-radius: 10px;
+   margin: 7px;
+ }
